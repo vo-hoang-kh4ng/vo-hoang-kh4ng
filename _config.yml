@@ -1,0 +1,13 @@
+theme: jekyll-theme-minimal
+title: "KH4NG's AI Blog"
+description: "Exploring the frontiers of Large Language Models and AI"
+author: "Vo Hoang Kh4ng"
+baseurl: ""
+url: "https://vo-hoang-kh4ng.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

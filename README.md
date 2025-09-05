@@ -25,6 +25,14 @@
 
 ---
 
+### 🎯 Focus Areas:
+- 🤖 Large Language Models & Prompt Engineering
+- 🧠 Deep Learning & Neural Networks
+- 🔍 Natural Language Processing
+- 🖼️ Computer Vision & Image Processing
+- 🎮 Reinforcement Learning
+- ☁️ MLOps & AI Infrastructure
+
 ### 🛠️ Languages & Tools:
 
 <p align="center">
@@ -53,11 +61,35 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vo-hoang-kh4ng&theme=transparent&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </p>
 
+### 🎓 Current Learning & Projects:
+- 📚 Studying advanced LLM architectures and fine-tuning techniques
+- 🔬 Experimenting with AI agents and autonomous systems
+- 🌐 Building scalable ML infrastructure and deployment pipelines
+- 📝 Writing technical blogs about AI/ML best practices
+- 🤝 Contributing to open-source AI projects
+
 ### 📈 Contribution Metrics:
 
 <p align="center">
   <img width="100%" src="./metrics.svg" />
 </p>
+
+### 🌟 Featured Projects:
+
+<p align="center">
+<a href="https://github.com/yourusername/project1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vo-hoang-kh4ng&repo=project1&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/yourusername/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vo-hoang-kh4ng&repo=project2&theme=transparent&hide_border=true" />
+</a>
+</p>
+
+### 📚 Latest Blog Posts & Publications:
+<!-- BLOG-POST-LIST:START -->
+- [Title of your blog post 1](link-to-post)
+- [Title of your blog post 2](link-to-post)
+<!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Recent Activity:
 
